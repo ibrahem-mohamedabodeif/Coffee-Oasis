@@ -1,0 +1,200 @@
+[
+    {
+        "title":"coffee",
+        "image":"/img/coffee 1.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 2.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 3.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 4.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 5.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 6.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 7.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 8.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"coffee",
+        "image":"/img/coffee 9.png",
+        "description": "Coffee",
+        "category": "coffee"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 1.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 2.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 3.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 4.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 5.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 6.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 7.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 8.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 9.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"drink",
+        "image":"/img/drinks 10.png",
+        "description": "drink",
+        "category": "drink"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/English breakfast-amico (1).png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/English breakfast-bro.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/English breakfast-cuate.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/English breakfast-pana.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/fruit salad-amico.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/fruit salad-rafiki.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Hamburger-amico.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Pina colada-bro.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Poke bowl-amico.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Poke bowl-bro.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Poke bowl-pana.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Poke bowl-rafiki.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Ramen-amico.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    },
+    {
+        "title":"breakfast",
+        "image":"/img/Ramen-pana.png",
+        "description": "breakfast",
+        "category": "breakfast"
+    }
+]
